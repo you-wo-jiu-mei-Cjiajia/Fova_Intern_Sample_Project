@@ -36,7 +36,7 @@ b. For **IAM role**, choose **Create a new role**, then choose **Create role**.
 	
 5. Get real time predictions by calling an inference endpoint and passing a request payload in JSON format.
 
-	*Note:* To Jingzhao, here's the code that prompts me an error, :(
+	*Note:* here's the code that prompts me an error, :(
 	```python
 	import boto3
 	import json
